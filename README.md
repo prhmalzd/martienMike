@@ -1,7 +1,6 @@
 # martienMike
 
-![Uploading Jump (32x32).png…]()
-
+![Screenshot from 2023-12-06 13-51-24](https://github.com/prhmalzd/martienMike/assets/24936253/cd97ee2c-eb03-47bc-b586-26ea34744035)
 
 
 This game written by GDscript , whit Godot 4.
